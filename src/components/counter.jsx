@@ -5,9 +5,7 @@ class Counter extends Component {
     counter: 0,
   };
 
-  incrementClicked() {
-    console.log("increment button clicked");
-  }
+  incrementClicked() {}
 
   render() {
     return (
